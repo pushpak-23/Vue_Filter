@@ -28,9 +28,10 @@ A project built with Vue.js and JSON Server for filtering data by search, radio,
 <!-- Technologies Used -->
 ## Technologies Used
 
-- ![Vue.js Logo](https://vuejs.org/images/logo.png) [Vue.js](https://vuejs.org/)
-- ![JSON Server Logo](https://github.com/typicode/json-server/raw/master/src/cli/assets/logo.png) [JSON Server](https://github.com/typicode/json-server)
-- ![Tailwind CSS Logo](https://tailwindcss.com/_next/static/media/tailwindcss-mark.0d7f3d65fde928b3980c0db096df5374.svg) [Tailwind CSS](https://tailwindcss.com/)
+<p align="center">
+   <img src="https://img.shields.io/badge/Vue-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue">
+   
+</p>
 
 
 <!-- Installation -->
