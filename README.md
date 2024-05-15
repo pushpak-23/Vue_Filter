@@ -38,7 +38,7 @@ A project built with Vue.js and JSON Server for filtering data by search, radio,
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/pushpak-23/Vue_Filter.git]
+   git clone https://github.com/pushpak-23/Vue_Filter.git
 2. Install dependencies for each component:
 
     ```bash
