@@ -1,29 +1,85 @@
-# vue-filter
 
-This template should help get you started developing with Vue 3 in Vite.
+# Vue JSON Filter Project
 
-## Recommended IDE Setup
+<!-- Project Description -->
+A project built with Vue.js and JSON Server for filtering data by search, radio, and checkbox inputs. Tailwind CSS is used for styling.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+<!-- Table of Contents -->
+## Table of Contents
 
-## Customize configuration
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+<!-- Demo -->
+## Demo
 
-## Project Setup
+[Include a link to a live demo if available]
 
-```sh
-npm install
-```
+<!-- Features -->
+## Features
 
-### Compile and Hot-Reload for Development
+- Search filtering
+- Radio input filtering
+- Checkbox input filtering
 
-```sh
-npm run dev
-```
+<!-- Technologies Used -->
+## Technologies Used
 
-### Compile and Minify for Production
+- [Vue.js](https://vuejs.org/)
+- [JSON Server](https://github.com/typicode/json-server)
+- [Tailwind CSS](https://tailwindcss.com/)
 
-```sh
-npm run build
-```
+<!-- Installation -->
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone [https://github.com/your-username/your-repository.git](https://github.com/pushpak-23/Vue_Filter.git)
+2. Install dependencies for each component:
+
+    ```bash
+    # Server
+    cd Data/
+    npm install
+
+    # Frontend
+    npm install
+    ```
+
+## Running the Application
+
+1. **Start the Server**:
+
+    ```bash
+    cd Data/
+    json-server --watch db.json
+    ```
+
+2. **Start the Vue Frontend**:
+
+    ```bash
+    npm run dev
+    ```
+## Usage
+
+- Access the Vue frontend at: `http://localhost:5173`
+- Access the JSON Server: `http://localhost:3000`
+
+## Additional Commands
+
+- **Linting (Frontend)**:
+
+    ```bash
+    npm run lint
+    ```
+
+- **Run Tests (Frontend)**:
+
+    ```bash
+    npm test
+    ```
+
