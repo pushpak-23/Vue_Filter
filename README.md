@@ -30,7 +30,7 @@ A project built with Vue.js and JSON Server for filtering data by search, radio,
 
 <p align="center">
    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue">
-   <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json&logoColor=pink" alt="Json">
+   <img src="https://img.shields.io/badge/json%20server-323330?style=for-the-badge&logo=json&logoColor=pink" alt="Json">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
